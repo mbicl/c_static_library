@@ -8,4 +8,5 @@ run: main
 
 clean:
 	rm *.o
-	rm *
+	rm *.a
+	rm main
